@@ -5,7 +5,9 @@
     <title>wonderwind271's website</title>
     <script>
         function f() {
+            document.getElementById("id1").innerHTML="paragraph <b>changed</b>"
             alert("test!")
+
         }
     </script>
 </head>
@@ -15,7 +17,7 @@ Hello, world!
     document.write("<p>This is a test</p>");
 
 </script>
-<p>test2</p>
+<p id="id1">test2</p>
 <button onclick="f()">click</button>
 
 </body>
