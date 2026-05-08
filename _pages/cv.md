@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Waterloo, 2026.9 --
+* M.S.E in Electrical and Computer Engineering, University of Michigan, 2024.8 -- 2025.12
+* B.S.E. in Computer Science, University of Michigan, 2022.8 -- 2024.5 (*Summa cum laude*)
+* B.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2020.9 -- 2024.8 
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,16 +31,11 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
 Publications
 ======
@@ -61,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
