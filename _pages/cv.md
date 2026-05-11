@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D. student in Computer Science, School of Computer Science, College of Engineering, University of Waterloo (advisor: [Freda Shi](https://cs.uwaterloo.ca/~fhs/)), 2026.9 -- 
+* Incoming Ph.D. student in Computer Science, School of Computer Science, University of Waterloo (advisor: [Freda Shi](https://cs.uwaterloo.ca/~fhs/)), 2026.9 -- 
 * M.S.E. degree in Electrical and Computer Engineering, College of Engineering, University of Michigan, 2024.8 -- 2025.12 
 * B.S.E. degree in Computer Science, College of Engineering, University of Michigan, 2022.8 -- 2024.5 (*Summa cum laude*) 
 * B.E. degree in Electrical and Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2020.9 -- 2024.8 
