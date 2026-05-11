@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Shuyu Wu
+Hi! This is the front page of Shuyu Wu
 
 
 
@@ -27,4 +27,4 @@ This is the front page of Shuyu Wu
 
 
 
-    
+------
