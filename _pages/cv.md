@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Waterloo, 2026.9 --
-* M.S.E in Electrical and Computer Engineering, University of Michigan, 2024.8 -- 2025.12
-* B.S.E. in Computer Science, University of Michigan, 2022.8 -- 2024.5 (*Summa cum laude*)
-* B.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2020.9 -- 2024.8 
+* Ph.D in Computer Science, School of Computer Science, College of Engineering, University of Waterloo (advisor: [Freda Shi](https://cs.uwaterloo.ca/~fhs/)), 2026.9 --
+* M.S.E in Electrical and Computer Engineering, College of Engineering, University of Michigan, 2024.8 -- 2025.12
+* B.S.E. in Computer Science, College of Engineering, University of Michigan, 2022.8 -- 2024.5 (*Summa cum laude*)
+* B.E. in Electrical and Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2020.9 -- 2024.8 
 
 <!-- Work experience
 ======
@@ -35,19 +35,20 @@ Education
   
 Skills
 ======
-* 
+* Programming Languages: C++, Python, Matlab, JavaScript, Julia, Java, swift
+* Libraries and Frameworks: pandas, scikit-learn, tensorFlow, pytorch, transformers, django, boto3, whoosh, flask, spring boot
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -57,4 +58,9 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Reviewer
+  * ICLR (2026) 
+  * ICML (2026)
+
+* Member of JI Honor Council, UM-SJTU Joint Institute (2021.11-2024.8) 
+  * Chair of JI Honor Council, UM-SJTU Joint Institute (2023.4-2024.8)
