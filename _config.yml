@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Shuyu Wu"
   pronouns         : "he/him"  
-  bio              : "Incoming PhD student at the University of Waterloo"
-  location         : "Ann Arbor, MI, USA"
+  bio              : "First year PhD student at the University of Waterloo"
+  location         : "Waterloo, ON, Canada"
   employer         : # "Red Brick University"
   uri              : https://wonderwind271.github.io/
-  email            : "shuyuwu@umich.edu" 
+  email            : "shuyu.wu@uwaterloo.ca" 
 
   # Academic websites
   academia         : # URL
