@@ -59,13 +59,16 @@ Teaching
 Service and leadership
 ======
 * Reviewer
-  * ICLR (2026) 
+  * ICLR (2026, 2027) 
   * ICML (2026)
   * NeurIPS (2026)
 
-* Member of JI Honor Council, UM-SJTU Joint Institute (2021.11-2024.8) 
+* Member of [JI Honor Council](https://gc.sjtu.edu.cn/academics/academic-integrity/honor-council/), UM-SJTU Joint Institute (2021.11-2024.8) 
   * Chair of JI Honor Council, UM-SJTU Joint Institute (2023.4-2024.8)
 
-Awards
+Scholarship, Awards and Honors
 ======
 * Canada Impact+ Research Training Awards (2026.7, 40,000 CAD/year for 3 years)
+* Summa Cum Laude (Graduate with the highest distinction), University of Michigan (2024.5)
+* UM-SJTU Joint Institute Advanced Teaching Assistant Certificate (2023.4)
+* SJTU Undergraduate Excellent Scholarship, 3rd prize (2021.11, 500 CNY)
